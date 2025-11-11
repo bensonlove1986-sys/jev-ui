@@ -35,5 +35,5 @@
     "API_BASE": "https://jevshop.bensonlove1986.workers.dev",
     "VERSION": "v9.3"
   },
-  "regions": ["all"]
+  "regions": ["iad1"]
 }
